@@ -1,6 +1,6 @@
 # Consul on Alpine
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/consul)
 
 Alpine image for running [Consul](https://consul.io).
 
